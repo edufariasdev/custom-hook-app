@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "custom-hook-app",
+    "slug": "custom-hook-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
